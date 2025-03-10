@@ -1,0 +1,14 @@
+body{
+    display:flex;
+    justify-content: center;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 0;
+    display: block;
+}
+section{
+    background-color: azure;
+    display: flex;
+    display: block;
+    
+}
+
